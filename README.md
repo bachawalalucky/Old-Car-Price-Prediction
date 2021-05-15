@@ -8,3 +8,4 @@ So, here I used this following dataset to predict the price of any used car depe
 We’ll use a dataset which was provided by the Board Infinity comprised of 15157 rows    with 8 columns.**
 
 **The dataset is broken into 11902 records for training and 2976 for testing. The goal will be to build a system that can accurately classify previously unseen data. The competition is evaluated using mse, R2, Adjusted R2.**
+
